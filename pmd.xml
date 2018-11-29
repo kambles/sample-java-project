@@ -29,3 +29,5 @@
   </rule>
   <rule ref="rulesets/java/unusedcode.xml"/>
 </ruleset>
+ <rule ref="rulesets/python/unusedcode.xml"/>
+</rule>
